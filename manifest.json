@@ -1,0 +1,12 @@
+{
+ "name": "AngelList Gmail Paths",
+ "version": "0.1",
+ "manifest_version": 1,
+ "description": "Know your network: Angellist Paths in your Gmail inbox.",
+ "page_action": {
+   "default_icon": "images/angellist_icon.png",
+ },
+ "permissions": [
+   "http://api.flickr.com/"
+ ]
+}
